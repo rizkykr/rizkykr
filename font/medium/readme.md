@@ -1,2 +1,2 @@
-hanya untuk keperluan typography
-source: https://medium.com/
+hanya untuk keperluan typography<br>
+source: <b>https://medium.com/</b>
