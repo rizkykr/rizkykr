@@ -1,0 +1,1 @@
+hanya untuk keperluan typography
