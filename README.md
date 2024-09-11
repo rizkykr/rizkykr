@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rizky! 👋
 
 I am a passionate **Frontend Web Developer** and **System Administrator** with a strong background in building responsive, scalable web applications and managing server infrastructures. I enjoy solving real-world problems with innovative solutions and have expertise in:
 
