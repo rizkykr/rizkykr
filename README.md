@@ -1,5 +1,5 @@
 # Hi there, I'm RizkyKR! 👋
-[![](https://visitcount.itsvg.in/api?id=rizkykr&icon=8&color=13)]
+![](https://visitcount.itsvg.in/api?id=rizkykr&icon=8&color=13)
 
 I am a skilled **Fullstack Developer** and **System Administrator**, with a passion for building end-to-end web applications and managing robust server infrastructures. I specialize in both frontend and backend development, along with server management to ensure high-performance, scalable solutions.
 
