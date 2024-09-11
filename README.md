@@ -45,4 +45,4 @@ I am a skilled **Fullstack Developer** and **System Administrator**, with a pass
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rizkykurniawanrtg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.rizkykrtg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkykr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rizkykrtg) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rizkykurniawanritonga) 
 - [LinkedIn](https://www.linkedin.com/in/rizkykr/)
 - [Portfolio](https://rizkykr.com/)
-- [Blog](https://blog.rizkykr.com/)
+- [Blog](https://malescode.rizkykr.com/)
