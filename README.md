@@ -1,6 +1,7 @@
 # Hi there, I'm RizkyKR! 👋
 
 I am a skilled **Fullstack Developer** and **System Administrator**, with a passion for building end-to-end web applications and managing robust server infrastructures. I specialize in both frontend and backend development, along with server management to ensure high-performance, scalable solutions.
+
 🔭 I’m currently working on crafting Fullstack Web Apps using React, Laravel, and Go, while fine-tuning cloud deployments with Docker and Kubernetes.<br>👯 I’m looking to collaborate on cool projects that involve PWAs, microservices, or anything cloud-native.<br>🤝 I’m looking for help with scaling distributed systems and diving deeper into GraphQL for API development.<br>🌱 I’m currently learning TypeScript to level up my JavaScript game and exploring cloud platforms like AWS and Google Cloud.<br>💬 Ask me about fullstack development, server-side rendering, containerization, or anything DevOps-related.<br>⚡ Fun fact: I love automating workflows, discovering new web technologies, and I’m a huge coffee lover! 😁
 
 ### 👨‍💻 My Expertise
